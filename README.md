@@ -5,7 +5,9 @@
 ### Enter Parameters
 ```bash
 Minimum number of literals(-l): 10 (tool finds the patterns that has 10 or more literals) 
+
 Minimum literal density(-w): 10 (this value should be equal or more than –l) 
+
 Minimum pattern support(-k): 5 (with this value, tool finds the patterns that shows up at least 5 times in sequences) 
 ```
 ### Add Data
