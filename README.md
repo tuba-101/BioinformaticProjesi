@@ -12,7 +12,7 @@ Minimum pattern support(-k): 5 (with this value, tool finds the patterns that sh
 ```
 ### Add Data
 ```bash
-Add the sequence file to the related place of the tool
+Copy the context of the sequence.fasta file to the related place of the tool
 ```
 ### Submit
 ```bash
